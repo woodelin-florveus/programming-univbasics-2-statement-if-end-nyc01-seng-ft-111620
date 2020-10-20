@@ -11,12 +11,12 @@ converted_time = current_time.to_i
 
 
 
-case  converted_time
-when converted_time % 2 == 0
-  puts "Even!"
-when converted_time % 2 != 0
-  puts "Odd!"
-end
+# case  converted_time
+# when converted_time % 2 == 0
+#   puts "Even!"
+# when converted_time % 2 != 0
+#   puts "Odd!"
+# end
 
 
 # converted_time % 2 == 0 ? "Even!" : "Odd!"
